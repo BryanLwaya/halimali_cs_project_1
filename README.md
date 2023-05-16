@@ -1,4 +1,4 @@
-# halimali
+# HaliMali
 
 A new Flutter project.
 
