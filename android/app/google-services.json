@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028487279487",
+    "project_id": "halimali-cs-project1",
+    "storage_bucket": "halimali-cs-project1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028487279487:android:3bda0a4859893d66d5604a",
+        "android_client_info": {
+          "package_name": "com.halimali.halimali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028487279487-2m11s4qdspt3hqrufpcbaf8270v5feig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC78JoMnPQxbN_QLVWZtCc8w_H9nj2kdRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028487279487-2m11s4qdspt3hqrufpcbaf8270v5feig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
