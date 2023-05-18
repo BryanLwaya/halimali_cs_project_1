@@ -1,0 +1,17 @@
+[33mcommit 62795fae4525fe7016eb990b042ed50f552dc817[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: step-3[m[33m)[m
+Author: BryanLwaya <mutinda.bryan@strathmore.edu>
+Date:   Thu May 18 00:59:02 2023 +0300
+
+    third commit
+
+[33mcommit 287fc0abed573fca2b04830d18779a0a31db1d90[m[33m ([m[1;33mtag: step-2[m[33m)[m
+Author: BryanLwaya <mutinda.bryan@strathmore.edu>
+Date:   Tue May 16 18:56:19 2023 +0300
+
+    second commit
+
+[33mcommit d428f80acafd3a99bce8710f82e510ae9ae8461f[m[33m ([m[1;33mtag: step-1[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: BryanLwaya <mutinda.bryan@strathmore.edu>
+Date:   Tue May 16 15:07:06 2023 +0300
+
+    initial commit
